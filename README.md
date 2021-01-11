@@ -9,6 +9,8 @@ This notebook reproduces (not authentically, read on) the results of the followi
 This notebook was written by Ansh Verma. 
 
 Journal Article - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6681173/
+
 fMRI dataset - https://openneuro.org/datasets/ds002247/versions/1.0.0/download
+
 Methods article - https://blclab.org/wp-content/uploads/2019/08/Reading_Brain_Methods_L1Adults.pdf
 
