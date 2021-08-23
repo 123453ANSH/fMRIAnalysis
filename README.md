@@ -1,8 +1,8 @@
-= fMRIAnalysis
+#fMRIAnalysis
 
 Analyzing fMRI data to reproduce journal paper results, draw further conclusions with dataset - all details in attached jupyter notebook
 
-== Project Implementation Details: 
+#Project Implementation Details: 
 
 - developed fully automated fMRI data analysis pipeline
 - utilized several statistical analysis techniques (eg. regression, fMRI affine transformations, peak amplitude algorithm, peak detection algorithm, low-pass filter)
