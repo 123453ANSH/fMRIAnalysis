@@ -1,6 +1,11 @@
-# fMRIAnalysis
-Analyzing fMRI data to reproduce journal paper results, draw further conclusions with dataset - all details in attached 
-jupyter notebook
+= fMRIAnalysis
+
+Analyzing fMRI data to reproduce journal paper results, draw further conclusions with dataset - all details in attached jupyter notebook
+
+== Project Implementation Details: 
+
+- developed fully automated fMRI data analysis pipeline
+- utilized several statistical analysis techniques (eg. regression, fMRI affine transformations, peak amplitude algorithm, peak detection algorithm, low-pass filter)
 
 Directly from notebook: 
 
@@ -13,4 +18,5 @@ Journal Article - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6681173/
 fMRI dataset - https://openneuro.org/datasets/ds002247/versions/1.0.0/download
 
 Methods article - https://blclab.org/wp-content/uploads/2019/08/Reading_Brain_Methods_L1Adults.pdf
+
 
